@@ -1,1 +1,2 @@
-export const sum = (a: number, b: number) => a + b
+export * from './sum'
+export * from './Paragraph'

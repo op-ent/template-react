@@ -30,10 +30,10 @@ Import:
 
 ```js
 // ESM
-import { sum } from 'packageName'
+import { sum, Paragraph } from 'packageName'
 
 // CommonJS
-const { sum } = require('packageName')
+const { sum, Paragraph } = require('packageName')
 ```
 
 ## 💻 Development
